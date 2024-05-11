@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Nishita Rao
+### Hey there 👋, I'm Nishita Rao
 #### A Student Acquiring Knowledge on AI,ML &  data Engineering!
 ![A Student Acquiring Knowledge on AI,ML &  data Engineering!](https://static-blog.onlyoffice.com/wp-content/uploads/2023/08/04132048/onlyoffice-what-is-student-portal-in-2023.png)
 
