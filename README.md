@@ -6,11 +6,11 @@
 I am a diligent student delving into the world of data science, actively applying Python as my primary language of choice. With each passing day, I embrace new challenges and discoveries within this captivating field.
  Data science, with its blend of analytical prowess and creative problem-solving, resonates deeply with my aspirations.
  
- ##skills and expirences
- *💻 React
- *(●'◡'●) React native
- *📊|📅 --analysis.
- *🎯 Always Target Oritented.
+
+💻 
+(●'◡'●)
+📊|📅 --analysis.
+🎯 Always Target Oritented.
  
 Skills: PYTHON/JAVA/ HTML / DATA SCIENCE AND ALANYSIS/AL&ML/
 
